@@ -1,0 +1,5 @@
+[component_manager]
+disable_update_check = true
+
+[compute]
+
